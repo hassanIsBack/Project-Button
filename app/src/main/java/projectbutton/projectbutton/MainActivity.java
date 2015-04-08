@@ -21,7 +21,7 @@ public class MainActivity extends ActionBarActivity {
     public void click(View view) {
         Intent intent = new Intent(this, Option.class);
         startActivity(intent);
-        //Activity started
+        //Activity started.
     }
 
     @Override
